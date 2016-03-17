@@ -3,7 +3,7 @@
 write=nobody
 execute=authenticated 
   **/ 
- 
- return "sandy ravi";		
+ return "sandy";		
 
  
+			
