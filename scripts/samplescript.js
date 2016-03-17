@@ -3,6 +3,6 @@
 write=nobody
 execute=authenticated 
   **/ 
- return "ssssssssss";		
+ return "ssssssssssrrrrrrr";		
 
  
